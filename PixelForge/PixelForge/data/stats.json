@@ -1,0 +1,30 @@
+{
+    "general": {
+        "games_played": 20,
+        "wins": 5,
+        "losses": 5,
+        "draws": 7
+    },
+    "rock_paper_scissors": {
+        "played": 11,
+        "wins": 2,
+        "losses": 5,
+        "draws": 4
+    },
+    "tic_tac_toe": {
+        "played": 6,
+        "wins": 3,
+        "losses": 0,
+        "draws": 3
+    },
+    "hangman": {
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0
+    },
+    "snake": {
+        "played": 3,
+        "best_score": 70
+    }
+}
